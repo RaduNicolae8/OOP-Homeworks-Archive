@@ -32,10 +32,17 @@ Care este BAIATUL care te-a lovit Este cel care sta ACOLO
 Text de ieşire:
 
 care 3
+
 este 2
+
 acolo 1
+
 baiatul 1
+
 cel 1
+
 lovit 1
+
 sta 1
+
 te-a 1
