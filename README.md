@@ -1,2 +1,3 @@
 # OOP-Homeworks-Archive
-My OOP homeworks from university
+Here I will upload all of the C++ OOP Homeworks I submitted for University (ETTI)<br>
+The language for the exercise requirements is in Romanian.
