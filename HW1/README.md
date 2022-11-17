@@ -11,5 +11,5 @@ Se va afişa o singură valoare fracţionară, cu exact două zecimale reprezent
 
 # Restricţii şi precizări
 1 < n < 1000
-1.0 <= Ri <= 10000.0 
 
+1.0 <= Ri <= 10000.0 
