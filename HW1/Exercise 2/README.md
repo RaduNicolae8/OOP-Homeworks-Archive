@@ -31,16 +31,11 @@ Care este BAIATUL care te-a lovit Este cel care sta ACOLO
 
 Text de ieşire:
 
-care 3 <br> este 2
-
-acolo 1
-
-baiatul 1
-
-cel 1
-
-lovit 1
-
-sta 1
-
+care 3 <br> 
+este 2 <br> 
+acolo 1 <br> 
+baiatul 1 <br> 
+cel 1 <br> 
+lovit 1 <br> 
+sta 1 <br> 
 te-a 1
