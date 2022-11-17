@@ -28,8 +28,8 @@ Atenţie: În funcţie de limbajul de programare ales, fişierul ce conţine cod
 Text de intrare:
 
 Care este BAIATUL care te-a lovit Este cel care sta ACOLO
-S
-Text de ieşire
+
+Text de ieşire:
 
 care 3
 este 2
