@@ -19,7 +19,7 @@ Pe fiecare linie se vor afișa coordonatele polare ale fiecărui punct de la int
 Intrare
 
 1.1;0 1;1;1
-0;2;0
+0;2;0<br>
 Ieșire
 
 (r=2.000; phi=90.000; th=90.000)
