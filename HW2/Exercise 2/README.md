@@ -36,8 +36,8 @@ Olteniei Santana 89 6 televizor 555.60 cuptor 400 aragaz 899.98 laptop 4588.99 h
 Ieșire
 
 
-Faurei Sacele - 1349.87
-Olteniei Santana - 7353.47
+Faurei Sacele - 1349.87<br>
+Olteniei Santana - 7353.47<br>
 Pajurei Bebes - 3445.96
 
 Explicație
